@@ -1,8 +1,3 @@
-
-
-
-
-
 GITHUB_USERNAME = 'github-repo-health-uic'
 
-GITHUB_TOKEN = '44bc7b884ab67f4cc17a931ab4b1a64c399f501f'
+GITHUB_TOKEN = '817569a8eea8173f3fa928d76caada707036ad99'
